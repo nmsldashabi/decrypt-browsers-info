@@ -28,3 +28,5 @@ google：%USERPROFILE%\AppData\Local\Google\Chrome\User Data\Default\History
 edge：%USERPROFILE%\AppData\Local\Microsoft\Edge\User Data\Default\History
 brave：%USERPROFILE%\AppData\Local\BraveSoftware\Brave-Browser\User Data\Default\History
 ```
+
+  [![HitCount](https://hits.dwyl.com/nmsldashabi/decrypt-browsers-info.svg?style=flat-square)](http://hits.dwyl.com/nmsldashabi/decrypt-browsers-info)
